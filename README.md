@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Science Learner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG13NjQyb2J4Z2U4NndjMnlqdmU1dm1nMGRxZWo5c2djN2l2Nmx5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="300" />
 </p>
 
 ---
@@ -36,26 +36,12 @@
 
 ---
 
-
-### 🔥 My Top Repositories
-
-<div align="center">
-  <a href="https://github.com/sushantkalamani/Real_time_faqs_helper_voice_assistant">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/sushantkalamani/Google-Gemini-LLM">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-2&theme=tokyonight" />
-  </a>
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/sushantkalamani"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"></a>
   <a href="https://www.linkedin.com/in/sushantkalamani/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/yourprofile"><img alt="Twitter" src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardopiresbr/"></a>
+  <a href="https://www.instagram.com/ant__sush/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardopiresbr/"></a>
 </p>
 
 ---
