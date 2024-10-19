@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sushant Kalamani</h1>
-<h3 align="center">A passionate Data Science Learner</h3>
+<h1 align="center">Hi👋 I'm Sushant</h1>
+<h3 align="center">Currently I'm a AI/ML trainee @Gradious</h3>
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG13NjQyb2J4Z2U4NndjMnlqdmU1dm1nMGRxZWo5c2djN2l2Nmx5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="300" />
@@ -17,12 +17,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on Restorant Recommandation System([link-to-project](https://github.com/Abhinaycs/Gradious_Project))**
+- 🔭 I’m currently working on Restaurant Recommendation System([link-to-project]([https://github.com/sushantkalamani/Restaurant_Recommendation_System))
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, and Generative AI**
 - 👯 I’m looking to collaborate on **AI/ML Projects and Open Source Contributions**
 - 💬 Ask me about **Python, Data Science, and Automation**
 - 📫 How to reach me: **https://www.linkedin.com/in/sushantkalamani/**
-- ⚡ Fun fact: **I love reading, gaming, fiction movies**
+- ⚡ Fun fact: **I love reading, gaming, fictional movies**
 
 ---
 
